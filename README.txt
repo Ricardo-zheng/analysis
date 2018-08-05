@@ -1,0 +1,7 @@
+﻿fang_knn、fangdada_DBSCAN、fangdada_prodict为房大大项目的代码
+
+gujia_classifiter、gujia_NLP、gujia_surprise为顾家家居项目的代码
+
+RFM、Regression、kmeans为炙火科技项目的代码
+
+zhongying为中盈项目的代码，中盈项目的RFM代码上同炙火科技RFM，所以未上传
